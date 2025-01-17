@@ -1,0 +1,12 @@
+{
+  "name": "42 Network Common Core - Generic",
+  "description": "This NFT represents your achievemnt for successfully completing the Common Core of the 42 Network.",
+  "image": "https://ipfs.io/ipfs/QmX4GceWUZKAmQWGbqmXxKX2reDAun2NLYhLNE6m9LkJvT",
+  "external_url": "https://www.42network.org/",
+  "attributes": [
+    {
+      "trait_type": "Campus",
+      "value": "Generic"
+    }
+  ]
+}

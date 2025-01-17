@@ -1,0 +1,12 @@
+{
+  "name": "42 Network Common Core - Barcelona",
+  "description": "This NFT represents your achievemnt for successfully completing the Common Core at 42 Barcelona.",
+  "image": "https://ipfs.io/ipfs/QmR4Dp7Qh7LPeBLQPjEADXKHPAfi8oFnLyVYNrLX7JUdgy",
+  "external_url": "https://www.42network.org/",
+  "attributes": [
+    {
+      "trait_type": "Campus",
+      "value": "Barcelona"
+    }
+  ]
+}

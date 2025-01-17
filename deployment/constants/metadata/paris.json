@@ -1,0 +1,12 @@
+{
+  "name": "42 Network Common Core - Paris",
+  "description": "This NFT represents your achievemnt for successfully completing the Common Core at 42 Paris.",
+  "image": "https://ipfs.io/ipfs/QmZ8SXfS9zTQvSy6t3srg9nvv6eAaWz7hmXAzYPSQUNiuX",
+  "external_url": "https://www.42network.org/",
+  "attributes": [
+    {
+      "trait_type": "Campus",
+      "value": "Paris"
+    }
+  ]
+}

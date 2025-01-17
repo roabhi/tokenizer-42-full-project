@@ -3,3 +3,5 @@ deployment/.env
 deployment/docs
 deployment/artifacts
 deployment/cache
+.gitignore
+deployment/.env

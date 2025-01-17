@@ -1,6 +1,6 @@
 # Tokenizer
 
-This is an Outter Core 42 project
+This is an Outer Core 42 project
 
 As a participant in this project, you will have the opportunity to contribute to the creation of a digital asset on the blockchain.
 

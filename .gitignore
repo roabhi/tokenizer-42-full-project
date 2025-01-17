@@ -1,0 +1,5 @@
+deployment/node_modules
+deployment/.env
+deployment/docs
+deployment/artifacts
+deployment/cache

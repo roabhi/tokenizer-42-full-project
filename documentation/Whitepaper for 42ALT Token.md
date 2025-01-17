@@ -1,4 +1,4 @@
-### **Whitepaper for 42ALT Token by Roberto Abril \- rabril-h**
+### **Whitepaper for 42ALT Token \- Roberto Abril Hidalgo \- rabril-h**
 
 ---
 
@@ -10,7 +10,7 @@ The 42ALT token is a blockchain-based digital asset created to incentivize and r
 
 #### **1\. Introduction**
 
-42 schools are renowned for their innovative, student-driven learning model. The 42ALT token builds upon this foundation by creating an internal economy that rewards academic progress and collaboration. Leveraging the Polygon Amoy testnet, 42ALT is distributed to students based on their completion of Common Core project rings and other contributions within the community.
+42 schools are renowned for their innovative, student-driven learning model. The 42ALT token builds upon this foundation by creating an internal economy that rewards academic progress and collaboration. Initially tested on the Polygon Amoy testnet, 42ALT is distributed to students based on their completion of Common Core project rings and other contributions within the community.
 
 Initially deployed with a total supply of 42,000,000 tokens, 42ALT’s utility extends beyond the school environment, offering real-world value through strategic partnerships. By transforming achievements into tangible benefits, 42ALT incentivizes students to complete their education while fostering a sense of belonging and accomplishment.
 
@@ -54,28 +54,32 @@ At its current stage, 42ALT includes:
 - Launch 42ALT token on the Polygon Amoy testnet.
 - Develop and deploy the front-end application for reward claiming.
 - Test and refine the airdrop mechanism based on student performance.
+- Conduct extensive testing on the Polygon Amoy testnet to ensure the functionality of staking mechanisms, airdrop distribution, and marketplace transactions.
 
-**Phase 2: Expanding Internal Use (1-6 Months)**
+**Phase 2: Preparing for Mainnet Launch (1-6 Months)**
 
+- Establish key partnerships:
+  - Apply for a Polygon Grant to fund initial transaction fees on the Polygon PoS mainnet.
+  - Form alliances with local institutions in Nou Barris, Barcelona, such as nearby cafeterias, bike rental services, and public transport providers willing to accept 42ALT as payment.
+  - Collaborate with Telefonica, a primary supporter of 42 in Spain, to back the project’s deployment.
 - Integrate 42ALT directly into the 42 intranet system:
   - Automatically generate wallets for students upon enrollment.
   - Distribute airdrops in a manner similar to Altarian Dollars, but utilizing decentralized infrastructure on Polygon L2 solutions.
-- Introduce an internal marketplace:
-  - Enable students to trade services (e.g., mentorship, debugging assistance) using 42ALT.
-  - Provide options to purchase academic resources (e.g., textbooks, software licenses).
-- Implement staking rewards:
-  - Students can stake tokens to unlock benefits such as priority access to resources or enhanced rewards.
-- Conduct user feedback sessions to optimize usability and engagement.
+- Finalize staking mechanisms:
+  - Define theoretical justification for staking based on students “staking” their time and effort in the Common Core.
+  - Introduce rewards for staked tokens, such as priority access to educational resources, exclusive event participation, or enhanced voting power in governance.
 
-**Phase 3: Building Real-World Value (6-18 Months)**
+**Phase 3: Mainnet Deployment and Real-World Value (6-18 Months)**
 
+- Transition to the Polygon PoS mainnet:
+  - Deploy 42ALT on a decentralized blockchain with low transaction fees and robust infrastructure.
+  - Leverage partnerships to establish real-world utility in Nou Barris, Barcelona, as the initial testing ground.
 - **Transportation Partnerships**:
-  - Collaborate with public transport authorities and ride-sharing companies to enable token payments for daily commutes.
-  - Integrate with bike-sharing programs.
+  - Enable token payments for public transportation and bike-sharing programs.
 - **Meal Plans**:
-  - Establish partnerships with local cafes and on-campus cafeterias to accept 42ALT for food purchases.
+  - Partner with local cafes and on-campus cafeterias to accept 42ALT for food purchases.
 - **Tech and Supplies**:
-  - Partner with retailers to allow purchases of tech equipment and academic supplies using 42ALT.
+  - Collaborate with retailers to allow purchases of academic and technological equipment using 42ALT.
 - Launch conversion mechanisms to fiat or other cryptocurrencies through integration with crypto exchanges.
 
 **Phase 4: Community Engagement (18-24 Months)**
@@ -87,16 +91,11 @@ At its current stage, 42ALT includes:
 
 **Phase 5: Ecosystem Expansion (2-3 Years)**
 
-- Transition to Polygon PoS or zkEVM chains:
-  - Leverage Polygon PoS for lower transaction fees and higher scalability.
-  - Explore zkEVM to integrate zero-knowledge proofs, ensuring enhanced privacy and efficiency for transactions as real-world partnerships expand.
-- Form partnerships with:
-  - Private housing providers to allow rent payments in 42ALT.
-  - Wellness centers and gyms for memberships or sessions.
-  - Public institutions for token use in community services.
-- Enable cross-campus interoperability:
-  - Facilitate collaborations between global 42 campuses using a unified 42ALT system.
-  - Organize inter-campus competitions and reward systems.
+- Transition to Polygon zkEVM:
+  - Integrate zero-knowledge proofs for enhanced privacy and efficiency in real-world transactions.
+- Expand partnerships:
+  - Form alliances with housing providers, wellness centers, gyms, and public institutions for broader token acceptance.
+  - Facilitate cross-campus interoperability and competitions across global 42 schools.
 - Expand token acceptance to entertainment venues, such as cinemas and theaters.
 
 **Phase 6: Maturity and Scaling (3+ Years)**

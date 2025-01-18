@@ -47,3 +47,7 @@ The full code for the frontend can be seen directly from the application website
 Live version is deployed on Vercel. Once there, you first need to sign up with your 42 account and connect your wallet in order to claim any rewards. This is a safe mechanism to ensure only 42 students can access the application with a trusted wallet allowed for ConnectKit.
 
 - [NextJS Frontend](https://tokenizer-new-subject-42.vercel.app/)
+
+## Video presentation
+
+- [Tokenizer 42 video presentation](https://youtu.be/-QJeZRfGZWo)

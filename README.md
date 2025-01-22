@@ -14,6 +14,8 @@ This is an on going project and the tokenomics are still under development. The 
 
 ## Project Steps
 
+![Application structure](https://i.ibb.co/7kHTBjR/Frame-28.png)
+
 - [x] Create an API service on the 42 network able to access and retieve user data.
 - [x] Create a smartcontract that allows students to claim tokens based on their achievements.
 - [x] Design and program a frontend that allows students to claim their tokens.
@@ -50,4 +52,4 @@ Live version is deployed on Vercel. Once there, you first need to sign up with y
 
 ## Video presentation
 
-- [Tokenizer 42 video presentation](https://youtu.be/-QJeZRfGZWo)
+- [Tokenizer 42 video presentation](https://www.youtube.com/watch?v=Zgab4Vitfe0)
